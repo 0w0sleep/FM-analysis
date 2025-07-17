@@ -1,3 +1,7 @@
+ターミナルにて入力するコマンド
+cd /Users/k.kawamura/Desktop/FileMaker-Repo
+
+
 ーーーーーTrackーーーーー
 指定ファイルの形式をTrack
 git lfs track "*.fmp12" 
