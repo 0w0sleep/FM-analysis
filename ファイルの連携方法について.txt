@@ -1,0 +1,23 @@
+ーーーーーTrackーーーーー
+指定ファイルの形式をTrack
+git lfs track "*.fmp12" 
+　後ろの拡張子の種類を変更して設定する
+ーーーーーTrackーーーーー
+
+
+ーーーーーaddーーーーー
+git add "ファイル名"
+　Git連携させたいファイル名を拡張子付きで設定する
+ーーーーーaddーーーーー
+
+
+ーーーーーcommitーーーーー
+git commit -m "FileMaker x AI ファイルを連携"
+　コミットしたファイルにいて説明をのせる
+ーーーーーcommitーーーーー
+
+
+ーーーーーpushーーーーー
+git push origin main
+　Gitにプッシュ
+ーーーーーpushーーーーー
